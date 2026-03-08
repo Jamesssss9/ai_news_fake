@@ -4,3 +4,5 @@ requests
 beautifulsoup4
 pillow
 python-dotenv
+joblib
+scikit-learn
